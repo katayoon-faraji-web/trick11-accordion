@@ -6,7 +6,7 @@ https://github.com/katayoon-faraji-web/trick11-accordion/assets/144775981/97dc6e
 
 - Developed by katayoon faraji
 
-- 🗓️Created - 2023-12
+- 🗓️Created - 2023-11
 
 - 💻Technologies Used - Html , Tailwind ,Javascript
 
